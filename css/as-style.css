@@ -13,3 +13,26 @@ h2 {
 h3 {
   font-style: italic;
 }
+
+.column {
+  width: 30%;
+  float:left;
+  background-color: #BC8F8F;
+  padding: 4px;
+  margin: 12px;
+  border-style: solid;
+  border-color: black;
+  border-width: thick;
+}
+
+.column p {
+  font-family: fantasy;
+}
+
+body {
+  font-family: cursive;
+}
+
+.different h3 {
+  font-style: bold;
+}
