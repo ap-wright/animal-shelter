@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  border-width: thick;
+  border-color: #00FFFF;
+  border-style: solid;
+  color: #2F4F4F;
+}
+
+h2 {
+  color: #191970
+}
+
+h3 {
+  font-style: italic;
+}
